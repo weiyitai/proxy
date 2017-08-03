@@ -1,0 +1,20 @@
+08-03 23:10:33.806 25517-25517/com.qianbajin.facebooklogin D/MainActivity: accessToken:{AccessToken token:ACCESS_TOKEN_REMOVED permissions:[public_profile, email]}
+08-03 23:10:33.806 25517-25517/com.qianbajin.facebooklogin D/MainActivity: {AccessToken token:ACCESS_TOKEN_REMOVED permissions:[public_profile, email]}
+08-03 23:10:33.806 25517-25517/com.qianbajin.facebooklogin D/MainActivity: userId:105624386810699
+08-03 23:10:33.806 25517-25517/com.qianbajin.facebooklogin D/MainActivity: token:EAADtH67rWWMBAIYvkYI4S1UobQIBxx4L3RhqPUSn1OclFUXjdQHrmfVAmfbEXnEOwSOL0GSF4nGeZBewjx3tiI7Gd58DbFeFwnd2PYb54DdmbiY7DHSYdGLYGohsuMK3WYKeDjFfaR2Pe50IFhbBWLH47OBi1HIokNkonHrpDolCc3KF43FcMWPe6ZCjzX4ZANU6kNLfvYlMm5oDlsKtxcPT2rkhYUZD
+08-03 23:10:33.806 25517-25517/com.qianbajin.facebooklogin D/MainActivity: expires:Mon Oct 02 22:58:20 GMT+08:00 2017
+08-03 23:10:33.806 25517-25517/com.qianbajin.facebooklogin D/MainActivity: currentProfile:com.facebook.Profile@d520e5a5
+08-03 23:10:33.806 25517-25517/com.qianbajin.facebooklogin D/MainActivity: currentProfile.toString():com.facebook.Profile@d520e5a5
+08-03 23:10:33.806 25517-25517/com.qianbajin.facebooklogin D/MainActivity: id:105624386810699
+08-03 23:10:33.806 25517-25517/com.qianbajin.facebooklogin D/MainActivity: name:Xiao Hei
+08-03 23:10:33.806 25517-25517/com.qianbajin.facebooklogin D/MainActivity: linkUri:https://www.facebook.com/app_scoped_user_id/105624386810699/
+08-03 23:12:11.586 16080-16080/org.getlantern.lantern D/LanternMainActivity: Data left: 0MB, 100% used
+08-03 23:12:38.426 3823-4129/system_process I/ActivityManager: Skip updateThumbnail for r=ActivityRecord{38339b0a u0 com.qianbajin.facebooklogin/com.qianbajin.fblogin.MainActivity t1156}
+08-03 23:12:45.336 3823-3823/system_process I/ActivityManager:   Force finishing activity 3 ActivityRecord{577e642 u0 org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_ t1148}
+08-03 23:12:51.996 3823-4864/system_process I/ActivityManager: Skip updateThumbnail for r=ActivityRecord{38339b0a u0 com.qianbajin.facebooklogin/com.qianbajin.fblogin.MainActivity t1156}
+08-03 23:12:52.436 3823-3852/system_process D/StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{22e6b327 u0 d0 com.qianbajin.facebooklogin/com.qianbajin.fblogin.MainActivity}
+08-03 23:12:56.966 3823-4608/system_process I/ActivityManager: Skip updateThumbnail for r=ActivityRecord{38339b0a u0 com.qianbajin.facebooklogin/com.qianbajin.fblogin.MainActivity t1156}
+08-03 23:12:57.766 3823-3852/system_process D/StatusBarManagerService: manageDisableList userId=0 what=0x0 pkg=Window{22e6b327 u0 d0 com.qianbajin.facebooklogin/com.qianbajin.fblogin.MainActivity}
+08-03 23:12:57.796 25517-25517/com.qianbajin.facebooklogin D/MainActivity: onActivityResult:Intent { (has extras) }
+08-03 23:12:57.796 25517-25517/com.qianbajin.facebooklogin D/MainActivity: Intent { (has extras) }
+08-03 23:12:57.796 25517-25517/com.qianbajin.facebooklogin D/MainActivity: onError:net::ERR_CONNECTION_REFUSED
