@@ -1,0 +1,15 @@
+    
+ //开发模式下只编译部分资源，加快编译速度
+//    productFlavors {
+//        dev {
+//            minSdkVersion 21
+//            //only package english translations, and xxhdpi resources
+////            resConfigs("en", "xxhdpi")
+//        }
+//        prod {
+//            // The actual minSdkVersion for the production version.
+//            minSdkVersion 19
+//        }
+//    }
+
+不考虑适配的话,可以build.gradle里设置  minSdkVersion 21,这样在打包时就不会合并21以下的资源
